@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/yuzutech/kroki.git",
+          "subdir": "docs/modules/setup/examples/k8s"
+        }
+      },
+      "version": "main"
+    }
+  ],
+  "legacyImports": true
+}
